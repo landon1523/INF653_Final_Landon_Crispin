@@ -1,5 +1,5 @@
 [
-{
+  {
     "state": "Alabama",
     "slug": "alabama",
     "code": "AL",
@@ -19,8 +19,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/alabama.jpg",
     "twitter_url": "https://twitter.com/alabamagov",
     "facebook_url": "https://www.facebook.com/alabamagov"
-},
-{
+  },
+  {
     "state": "Alaska",
     "slug": "alaska",
     "code": "AK",
@@ -40,8 +40,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/alaska.jpg",
     "twitter_url": "https://twitter.com/alaska",
     "facebook_url": "https://www.facebook.com/AlaskaLocalGovernments"
-},
-{
+  },
+  {
     "state": "Arizona",
     "slug": "arizona",
     "code": "AZ",
@@ -61,8 +61,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/arizona.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Arkansas",
     "slug": "arkansas",
     "code": "AR",
@@ -82,8 +82,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/arkansas.jpg",
     "twitter_url": "https://twitter.com/arkansasgov",
     "facebook_url": "https://www.facebook.com/Arkansas.gov"
-},
-{
+  },
+  {
     "state": "California",
     "slug": "california",
     "code": "CA",
@@ -103,8 +103,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/california.jpg",
     "twitter_url": "https://twitter.com/cagovernment",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Colorado",
     "slug": "colorado",
     "code": "CO",
@@ -124,8 +124,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/colorado.jpg",
     "twitter_url": "https://twitter.com/coloradogov",
     "facebook_url": "https://www.facebook.com/Colorado.gov"
-},
-{
+  },
+  {
     "state": "Connecticut",
     "slug": "connecticut",
     "code": "CT",
@@ -145,8 +145,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/connecticut.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Delaware",
     "slug": "delaware",
     "code": "DE",
@@ -166,8 +166,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/delaware.jpg",
     "twitter_url": "https://twitter.com/delaware_gov",
     "facebook_url": "https://www.facebook.com/delaware.gov"
-},
-{
+  },
+  {
     "state": "Florida",
     "slug": "florida",
     "code": "FL",
@@ -187,8 +187,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/florida.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Georgia",
     "slug": "georgia",
     "code": "GA",
@@ -208,8 +208,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/georgia.jpg",
     "twitter_url": "http://twitter.com/georgiagov",
     "facebook_url": "http://www.facebook.com/pages/georgiagov/29760668054"
-},
-{
+  },
+  {
     "state": "Hawaii",
     "slug": "hawaii",
     "code": "HI",
@@ -229,8 +229,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/hawaii.jpg",
     "twitter_url": "https://twitter.com/ehawaiigov",
     "facebook_url": "https://www.facebook.com/ehawaii.gov"
-},
-{
+  },
+  {
     "state": "Idaho",
     "slug": "idaho",
     "code": "ID",
@@ -250,8 +250,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/idaho.jpg",
     "twitter_url": "https://twitter.com/IDAHOgov",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Illinois",
     "slug": "illinois",
     "code": "IL",
@@ -271,8 +271,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/illinois.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Indiana",
     "slug": "indiana",
     "code": "IN",
@@ -292,8 +292,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/indiana.jpg",
     "twitter_url": "https://twitter.com/in_gov",
     "facebook_url": "https://www.facebook.com/IndianaGovernment"
-},
-{
+  },
+  {
     "state": "Iowa",
     "slug": "iowa",
     "code": "IA",
@@ -313,8 +313,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/iowa.jpg",
     "twitter_url": "https://twitter.com/IAGOVTWEETS",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Kansas",
     "slug": "kansas",
     "code": "KS",
@@ -334,8 +334,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/kansas.jpg",
     "twitter_url": "http://www.twitter.com/ksgovernment",
     "facebook_url": "http://www.facebook.com/pages/Topeka-KS/Kansasgov-Kansas-Government-Online/52068474220"
-},
-{
+  },
+  {
     "state": "Kentucky",
     "slug": "kentucky",
     "code": "KY",
@@ -355,8 +355,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/kentucky.jpg",
     "twitter_url": "https://twitter.com/kygov",
     "facebook_url": "https://www.facebook.com/kygov"
-},
-{
+  },
+  {
     "state": "Louisiana",
     "slug": "louisiana",
     "code": "LA",
@@ -376,8 +376,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/louisiana.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Maine",
     "slug": "maine",
     "code": "ME",
@@ -397,8 +397,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/maine.jpg",
     "twitter_url": "https://twitter.com/mainegov_news",
     "facebook_url": "http://www.facebook.com/pages/Augusta-ME/Mainegov/98519328240"
-},
-{
+  },
+  {
     "state": "Maryland",
     "slug": "maryland",
     "code": "MD",
@@ -418,8 +418,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/maryland.jpg",
     "twitter_url": "https://twitter.com/statemaryland",
     "facebook_url": "https://www.facebook.com/statemaryland"
-},
-{
+  },
+  {
     "state": "Massachusetts",
     "slug": "massachusetts",
     "code": "MA",
@@ -439,8 +439,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/massachusetts.jpg",
     "twitter_url": "http://twitter.com/massgov",
     "facebook_url": "https://www.facebook.com/massgov"
-},
-{
+  },
+  {
     "state": "Michigan",
     "slug": "michigan",
     "code": "MI",
@@ -460,8 +460,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/michigan.jpg",
     "twitter_url": "https://twitter.com/migov",
     "facebook_url": "https://www.facebook.com/MIgovernment"
-},
-{
+  },
+  {
     "state": "Minnesota",
     "slug": "minnesota",
     "code": "MN",
@@ -481,8 +481,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/minnesota.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Mississippi",
     "slug": "mississippi",
     "code": "MS",
@@ -502,8 +502,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/mississippi.jpg",
     "twitter_url": "https://twitter.com/msdotgov",
     "facebook_url": "https://www.facebook.com/msdotgov"
-},
-{
+  },
+  {
     "state": "Missouri",
     "slug": "missouri",
     "code": "MO",
@@ -523,8 +523,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/missouri.jpg",
     "twitter_url": "https://twitter.com/MoGov",
     "facebook_url": "https://www.facebook.com/mogov"
-},
-{
+  },
+  {
     "state": "Montana",
     "slug": "montana",
     "code": "MT",
@@ -544,8 +544,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/montana.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Nebraska",
     "slug": "nebraska",
     "code": "NE",
@@ -565,8 +565,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/nebraska.jpg",
     "twitter_url": "https://twitter.com/Nebraskagov",
     "facebook_url": "https://www.facebook.com/nebraska.gov"
-},
-{
+  },
+  {
     "state": "Nevada",
     "slug": "nevada",
     "code": "NV",
@@ -586,8 +586,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/nevada.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "New Hampshire",
     "slug": "new-hampshire",
     "code": "NH",
@@ -607,8 +607,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/new-hampshire.jpg",
     "twitter_url": "https://twitter.com/nhgov",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "New Jersey",
     "slug": "new-jersey",
     "code": "NJ",
@@ -628,8 +628,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/new-jersey.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "New Mexico",
     "slug": "new-mexico",
     "code": "NM",
@@ -649,8 +649,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/new-mexico.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "New York",
     "slug": "new-york",
     "code": "NY",
@@ -670,8 +670,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/new-york.jpg",
     "twitter_url": "https://twitter.com/nygov",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "North Carolina",
     "slug": "north-carolina",
     "code": "NC",
@@ -691,8 +691,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/north-carolina.jpg",
     "twitter_url": "https://twitter.com/NCdotGov",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "North Dakota",
     "slug": "north-dakota",
     "code": "ND",
@@ -712,8 +712,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/north-dakota.jpg",
     "twitter_url": "https://twitter.com/ExperienceND",
     "facebook_url": "https://www.facebook.com/ExperienceND"
-},
-{
+  },
+  {
     "state": "Ohio",
     "slug": "ohio",
     "code": "OH",
@@ -733,8 +733,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/ohio.jpg",
     "twitter_url": "https://twitter.com/ohgov",
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Oklahoma",
     "slug": "oklahoma",
     "code": "OK",
@@ -754,8 +754,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/oklahoma.jpg",
     "twitter_url": "https://twitter.com/okgov",
     "facebook_url": "https://www.facebook.com/okgov"
-},
-{
+  },
+  {
     "state": "Oregon",
     "slug": "oregon",
     "code": "OR",
@@ -775,8 +775,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/oregon.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Pennsylvania",
     "slug": "pennsylvania",
     "code": "PA",
@@ -796,8 +796,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/pennsylvania.jpg",
     "twitter_url": "https://www.facebook.com/visitPA",
     "facebook_url": "https://twitter.com/visitPA"
-},
-{
+  },
+  {
     "state": "Rhode Island",
     "slug": "rhode-island",
     "code": "RI",
@@ -817,8 +817,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/rhode-island.jpg",
     "twitter_url": "https://twitter.com/rigov",
     "facebook_url": "https://www.facebook.com/RIgov-Rhode-Island-Government-Online-24056655991"
-},
-{
+  },
+  {
     "state": "South Carolina",
     "slug": "south-carolina",
     "code": "SC",
@@ -838,8 +838,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/south-carolina.jpg",
     "twitter_url": "https://twitter.com/scgov",
     "facebook_url": "http://www.facebook.com/pages/SCgov/12752057990"
-},
-{
+  },
+  {
     "state": "South Dakota",
     "slug": "south-dakota",
     "code": "SD",
@@ -859,8 +859,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/south-dakota.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Tennessee",
     "slug": "tennessee",
     "code": "TN",
@@ -880,8 +880,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/tennessee.jpg",
     "twitter_url": "https://twitter.com/TNVacation",
     "facebook_url": "https://www.facebook.com/tnvacation"
-},
-{
+  },
+  {
     "state": "Texas",
     "slug": "texas",
     "code": "TX",
@@ -901,8 +901,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/texas.jpg",
     "twitter_url": "https://twitter.com/texasgov",
     "facebook_url": "http://www.facebook.com/Texas.gov"
-},
-{
+  },
+  {
     "state": "Utah",
     "slug": "utah",
     "code": "UT",
@@ -922,8 +922,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/utah.jpg",
     "twitter_url": "https://twitter.com/UtahGov",
     "facebook_url": "https://www.facebook.com/utahgov"
-},
-{
+  },
+  {
     "state": "Vermont",
     "slug": "vermont",
     "code": "VT",
@@ -943,8 +943,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/vermont.jpg",
     "twitter_url": "https://twitter.com/vermontgov",
     "facebook_url": "https://www.facebook.com/MyVermont"
-},
-{
+  },
+  {
     "state": "Virginia",
     "slug": "virginia",
     "code": "VA",
@@ -964,8 +964,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/virginia.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Washington",
     "slug": "washington",
     "code": "WA",
@@ -985,8 +985,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/washington.jpg",
     "twitter_url": "https://twitter.com/wagov",
     "facebook_url": ""
-},
-{
+  },
+  {
     "state": "West Virginia",
     "slug": "west-virginia",
     "code": "WV",
@@ -1006,8 +1006,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/west-virginia.jpg",
     "twitter_url": "https://twitter.com/wvgov",
     "facebook_url": "https://www.facebook.com/wvgov"
-},
-{
+  },
+  {
     "state": "Wisconsin",
     "slug": "wisconsin",
     "code": "WI",
@@ -1027,8 +1027,8 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/wisconsin.jpg",
     "twitter_url": null,
     "facebook_url": null
-},
-{
+  },
+  {
     "state": "Wyoming",
     "slug": "wyoming",
     "code": "WY",
@@ -1048,5 +1048,5 @@
     "skyline_background_url": "https://cdn.civil.services/us-states/backgrounds/1280x720/skyline/wyoming.jpg",
     "twitter_url": null,
     "facebook_url": null
-}
+  }
 ]
