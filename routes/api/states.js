@@ -1,5 +1,7 @@
+
 const express = require('express');
 const router = express.Router();
+
 const statesController = require('../../controllers/statesController');
 const createController = require('../../controllers/createController');
 
@@ -31,7 +33,6 @@ router.route('/:state/admission')
 
 router.route('/contig')
     .get(statesController.testCall);
-
 
 
 module.exports = router;
